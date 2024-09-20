@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  height: 100vh;
+  text-align: center;
+}
+
+.bg-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.background {
+  background-color: rgba(26, 26, 26, 0.6);
+  padding: 20px;
+  height: 100vh;
+  z-index: 1;
+  width: 50vw;
+}
