@@ -15,6 +15,7 @@
 .background {
   background-color: rgba(26, 26, 26, 0.6);
   padding: 20px;
+  margin: -7px;
   height: 100vh;
   z-index: 1;
   width: 50vw;
