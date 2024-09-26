@@ -32,12 +32,11 @@ body {
   padding: 0;
 }
 
-ul {
-  line-height: 100%;
-}
-
 li {
   list-style-type: "\002727";
+}
+li > li {
+  list-style-type: "\002729";
 }
 
 a {

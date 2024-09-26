@@ -18,18 +18,43 @@ function Main() {
       <h1>Galileo Galilei</h1>
       <h2>for Renaissance Got Talent</h2>
       <p>
-        <strong>Galileo Galilei</strong> was an Italian philosopher, mathematician, and
-        astronomer who changed the way we think about our universe. His many
-        theories from us orbiting the sun to the law of falling bodies
-        challenged the catholic church’s power, but his persistence led to a{" "}
-        <em>significant change</em> in the studies of motion and natural philosophy. His
-        studies make him the perfect fit for Renaissance Got Talent.<br /><br />
+        <strong>Galileo Galilei</strong> was an Italian philosopher,
+        mathematician, and astronomer who changed the way we think about our
+        universe. His many theories from us orbiting the sun to the law of
+        falling bodies challenged the catholic church's power, but his
+        persistence led to a <em>significant change</em> in the studies of
+        motion and natural philosophy. His studies make him the perfect fit for
+        Renaissance Got Talent.
+        <br />
+        <br />
         But what did Galileo even do? Well I'm glad you asked:
         <ul>
-          <li>Challenged the church with his heliocentric theory</li>
-          <li>Created the law of falling bodies</li>
-          <li>Made <strong><em>very big</em></strong> improvements to the telescope</li>
+          <li>
+            Challenged the church with his heliocentric theory (This boosted the
+            popularity of natural philosophy and philosophy in general)
+          </li>
+
+          <li>
+            Created the law of falling bodies (A conclusion that contradicted
+            Aristotelian physics)
+          </li>
+          <li>
+            Made{" "}
+            <strong>
+              <em>very big</em>
+            </strong>{" "}
+            improvements to the telescope (Refracting telescopes could see the
+            moon, among many other things)
+          </li>
         </ul>
+      </p>
+      <p>
+        Galileo <strong>rocked</strong> the world with his scientific
+        discoveries. People started to be skeptical of things around them, like
+        the rule of the catholic church. The field of astronomy and physics
+        started using his heliocentric model, and he's still important today!
+        His studies heavily influenced modern day studies of astronomy, physics,
+        and mathematics.
       </p>
 
       <p>
