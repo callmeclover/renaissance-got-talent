@@ -5,10 +5,12 @@ const routes = createBrowserRouter([
   {
     path: "renaissance-got-talent/",
     element: Main(),
-  },
-  {
-    path: "renaissance-got-talent/workscited",
-    element: WorksCited(),
+    children: [
+      {
+        path: "workscited",
+        element: WorksCited(),
+      },
+    ],
   },
 ]);
 
