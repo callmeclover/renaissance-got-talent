@@ -3,11 +3,11 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const routes = createBrowserRouter([
   {
-    path: "/",
+    path: "renaissance-got-talent/",
     element: Main(),
   },
   {
-    path: "/workscited",
+    path: "renaissance-got-talent/workscited",
     element: WorksCited(),
   },
 ]);
